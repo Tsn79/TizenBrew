@@ -12,7 +12,7 @@
   "dependencies": {
     "adbhost": "^0.0.2",
     "chrome-remote-interface": "^0.25.7",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "node-fetch": "^2.7.0",
     "ws-new": "npm:ws@^8.18.0",
     "ws-old": "npm:ws@^4.1.0"
